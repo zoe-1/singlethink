@@ -1,0 +1,25 @@
+{
+  "name": "singlethink",
+  "version": "0.0.1",
+  "description": "build single function for rethinkgt",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propadata/groupthink.git"
+  },
+  "keywords": [
+    "build",
+    "rethinkgt",
+    "asynchronous",
+    "function."
+  ],
+  "author": "Jon Swenson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/propadata/groupthink/issues"
+  },
+  "homepage": "https://github.com/propadata/groupthink#readme"
+}
